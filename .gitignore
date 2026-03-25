@@ -1,0 +1,11 @@
+.dev_cache.json
+.claude
+.env
+.env.example
+.venv
+.venv/*
+env.yaml
+deploy-flags.yaml
+note.txt
+.dev_cache.json
+__pycache__
